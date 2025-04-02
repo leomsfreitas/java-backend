@@ -4,23 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="18787c08-8c00-4554-a3ea-d20e3b4f7fd1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/exercise_0/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/exercise_0/Player.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/exercise_0/Team.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/project_0/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/project_0/Post.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/project_0/UserAccount.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/project_0/project_details.pdf" beforeDir="false" />
+    <list default="true" id="18787c08-8c00-4554-a3ea-d20e3b4f7fd1" name="Changes" comment="update">
+      <change beforePath="$PROJECT_DIR$/practical-exercises/src/main/java/project02/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/practical-exercises/src/main/java/project02/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practical-exercises/src/main/java/project02/Hand.java" beforeDir="false" afterPath="$PROJECT_DIR$/practical-exercises/src/main/java/project02/Hand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practical-exercises/src/main/java/project02/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/practical-exercises/src/main/java/project02/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practical-exercises/src/main/java/project02/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/practical-exercises/src/main/java/project02/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practical-exercises/src/main/java/project02/Round.java" beforeDir="false" afterPath="$PROJECT_DIR$/practical-exercises/src/main/java/project02/Round.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +45,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "dart.analysis.tool.window.visible": "false",
     "git-widget-placeholder": "main",
@@ -79,11 +69,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1743558650173</updated>
-      <workItem from="1743558651122" duration="20000" />
+      <workItem from="1743558651122" duration="278000" />
     </task>
+    <task id="LOCAL-00001" summary="update">
+      <option name="closed" value="true" />
+      <created>1743558716589</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1743558716589</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
 </project>

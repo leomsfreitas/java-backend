@@ -4,19 +4,20 @@ import project02.deck.Card;
 
 public class Player {
     private String name;
-    private int score;
     private Card[] cards;
+    private int points;
     private int currentCardIndex;
 
     public Player(String name) {
-        setName(name);
-        this.score = 0;
+        this.name = name;
+        this.points = 0;
         this.cards = new Card[3];
         this.currentCardIndex = 0;
     }
 
     public void setCards(Card[] cards) {
         this.cards = cards;
+        this.currentCardIndex = 0;
     }
 
     public Card chooseCard() {
@@ -26,20 +27,15 @@ public class Player {
         return null;
     }
 
-    public void incrementScore() {
-        score++;
+    public void addPoint() {
+        points++;
     }
 
-    public int getScore() {
-        return score;
+    public int getPoints() {
+        return points;
     }
 
     public String getName() {
         return name;
     }
-
-    public void setName(String name) {
-        this.name = name;
-    }
-
 }
