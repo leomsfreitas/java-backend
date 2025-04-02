@@ -1,4 +1,4 @@
-package project_0;
+package project00;
 
 public class UserAccount {
     private String email;

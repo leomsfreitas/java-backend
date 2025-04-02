@@ -1,4 +1,4 @@
-package exercise_0;
+package exercise00;
 
 public class Player {
     private String name;
